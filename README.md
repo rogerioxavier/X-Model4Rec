@@ -5,7 +5,7 @@ It's an extensible model to explore the user's dynamic taste profile using an ar
 ![X-Model4Rec Architecture](schema01.png)
 
 ### Citation Policy:
-If you publish material based on X-Model4Rec obtained from this or another repository, then, in your references the [paper](https://doi.org/10.1007/s44230-024-00073-3) (in camera-ready) below must be mandatorily cited.
+If you publish material based on X-Model4Rec obtained from this or another repository, then, in your references the [paper](https://doi.org/10.1007/s44230-024-00073-3) (accepted in camera-ready) below must be mandatorily cited.
 
 <u>Chicago/Turabian Style</u>:
 
