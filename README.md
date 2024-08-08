@@ -9,7 +9,7 @@ If you publish material based on X-Model4Rec obtained from this or another repos
 
 <u>Chicago/Turabian Style</u>:
 
-Azambuja, Rogério Xavier de, A. Jorge Morais, and Vítor Filipe. 2024. “X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile.” <i>Human-Centric Intelligent Systems</i>. Springer Link.<a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
+Azambuja, Rogério Xavier de, A. Jorge Morais, and Vítor Filipe. 2024. “X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile.” <i>Human-Centric Intelligent Systems</i>. Springer Link. <a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
 
 <u>APA 7th Edition Style</u>:
 
