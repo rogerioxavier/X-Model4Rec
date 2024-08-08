@@ -5,15 +5,15 @@ It's an extensible model to explore the user's dynamic taste profile using an ar
 ![X-Model4Rec Architecture](schema01.png)
 
 ### Citation Policy:
-If you publish material based on X-Model4Rec obtained from this or another repository, then, in your references the [paper](https://doi.org/10.1007/s44230-024-00073-3) (accepted in camera-ready) below must be mandatorily cited.
+If you publish material based on X-Model4Rec obtained from this or another repository, then, in your references the [paper](https://doi.org/10.1007/s44230-024-00073-3) below must be mandatorily cited.
 
 <u>Chicago/Turabian Style</u>:
 
-Azambuja, Rogério Xavier de, A. Jorge Morais, and Vítor Filipe. 2024. “X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile.” <i>Human-Centric Intelligent Systems</i>. <a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
+Azambuja, Rogério Xavier de, A. Jorge Morais, and Vítor Filipe. 2024. “X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile.” <i>Human-Centric Intelligent Systems</i>. Springer Link.<a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
 
 <u>APA 7th Edition Style</u>:
 
-de Azambuja, R. X., Morais, A. J., & Filipe, V. (2024). X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile. <i>Human-Centric Intelligent Systems</i>. <a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
+de Azambuja, R. X., Morais, A. J., & Filipe, V. (2024). X-Model4Rec: An Extensible Recommender Model Based on the User's Dynamic Taste Profile. <i>Human-Centric Intelligent Systems</i>. Springer Link. <a href="https://doi.org/10.1007/s44230-024-00073-3" target="_blank">https://doi.org/10.1007/s44230-024-00073-3</a>.
 
 
 This will help other researchers to obtain the world wine dataset and replicate your experiments.
